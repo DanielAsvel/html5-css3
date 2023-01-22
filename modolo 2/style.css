@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+*/{
+    padding: 0px;
+    margin: 0px;
+
+}
+header{
+    background-image: linear-gradient(to bottom,rgba(252, 2, 2), rgb(54, 2, 2));
+   
+    color: rgb(147, 147, 243);
+    
+}
+
+header h1 {
+    text-align: center;
+    margin-top: 0px;
+
+}
+
+header h2{
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+nav{
+    background-color: rgb(54, 2, 2);
+    height: 30px;
+}
+
+nav a{
+    color: rgb(147, 147, 243);
+    margin: 15px;
+}
+
+main{
+ background-color: rgb(247, 60, 60);
+ margin-top: 0px;
+}
+
+ section{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    
+ }
+
+ 
